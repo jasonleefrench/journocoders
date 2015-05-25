@@ -1,0 +1,6 @@
+[submodule "journocoders-bbc-api"]
+	path = journocoders-bbc-api
+	url = https://github.com/JasonLeeFrench/journocoders-bbc-api
+[submodule "journocoders-highcharts"]
+	path = journocoders-highcharts
+	url = https://github.com/JasonLeeFrench/journocoders-highcharts
