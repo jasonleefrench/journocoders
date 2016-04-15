@@ -4,6 +4,7 @@ I'll put them here from now on.
 
 * [BBC API](https://github.com/JasonLeeFrench/journocoders-bbc-api)
 * [Highcharts](https://github.com/JasonLeeFrench/journocoders-highcharts)
+* [VR](https://github.com/JasonLeeFrench/journocoders/tree/master/journocoders-vr)
 
 ![](http://i.imgur.com/8naPLA8.gif)
 
