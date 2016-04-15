@@ -5,5 +5,5 @@
 	path = journocoders-highcharts
 	url = https://github.com/JasonLeeFrench/journocoders-highcharts
 [submodule "journocoders-vr"]
-        path = journocoders-vr
-        url = https://github.com/JasonLeeFrench/journocoders-vr
+	path = journocoders-vr
+	url = git@github.com:JasonLeeFrench/journocoders-vr.git
